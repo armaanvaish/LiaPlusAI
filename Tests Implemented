@@ -1,0 +1,7 @@
+# Tests
+
+Unit tests for the SentimentAnalyzer class, checking:
+
+-Label classification logic
+-Aggregation logic
+-Trend summaries
